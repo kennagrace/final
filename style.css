@@ -188,8 +188,8 @@ a:hover{
     cursor: pointer;
 }
 
-.cbutton{
-    align-items: center;
+iframe{
+    border: 0;
 }
 
 .cards{
